@@ -2,3 +2,7 @@
 
 print ("Hello World")
 
+def main(msg):
+    print)msg)
+
+    print(msg)
